@@ -12,3 +12,6 @@ tools/mkspiffs/mkspiffs.exe
 .vs/
 __vm/
 *.vcxproj*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
